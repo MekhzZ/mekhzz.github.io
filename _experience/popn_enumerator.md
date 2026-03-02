@@ -1,0 +1,7 @@
+---
+title: "Population Census Enumerator"
+excerpt: "National Education Board | 2016 - 2019"
+rank: 2
+---
+* **Focus:** Anatomy, Chemistry, Physics, Mathematics.
+* **Learnings:** learnt about the anatomical structure of human body and plants, got know about every scientific explanation based on physics theory, learnt about the chemistry behind every elements present around us, explored advanced mathematics like linear algebra, calculus and more.

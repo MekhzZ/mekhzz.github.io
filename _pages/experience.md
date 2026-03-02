@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-layout: single
+layout: collection
 permalink: /experience/
 collection: experience
 author_profile: true
