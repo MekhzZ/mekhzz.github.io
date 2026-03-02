@@ -73,18 +73,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mekhz.hevc"
 
-# footer:
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
-
 collections:
   projects:
     output: true
@@ -115,6 +103,12 @@ defaults:
   - scope:
       path: ""
       type: education
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: extras
     values:
       layout: single
       author_profile: true
