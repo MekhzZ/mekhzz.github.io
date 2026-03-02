@@ -3,7 +3,7 @@ title: "Agriculture Census Enumerator"
 excerpt: "Census Bureau of Statistics, Nepal | Apr 2022 - Jun 2022"
 rank: 2
 ---
-Census Bureau of Statistics, Nepal | Apr 2022 - Jun 2022
+Census Bureau of Statistics, Nepal. | Apr 2022 - Jun 2022
 
 <p class="text-justify">Conducted a comprehensive survey of rural households and agricultural holdings to collect critical data for national policy planning.</p>
 
