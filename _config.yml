@@ -68,12 +68,18 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:mekhmanju@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mekhma-tamang/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mekhma_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MekhzZ"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/MekhmaTamangResume20260306.pdf"
 
 
 collections:
