@@ -4,6 +4,7 @@ excerpt: "A high-security data synchronization engine designed to bypass WAF pro
 tags: [Data]
 rank: 2
 ---
+**[GitHub](https://github.com/MekhzZ/HealthSparqProviderDataEngine.git)**
 
 ### Project Overview
 <p class="text-justify">Engineered a custom synchronization engine to aggregate provider information from the HealthSparq Nevada Medicaid portal. The system successfully navigated an Imperva WAF environment and bypassed a 300-result visibility cap to retrieve a complete dataset of 3,865 unique provider records.</p>
@@ -21,4 +22,3 @@ rank: 2
 ### Tech Stack
 **Python 3.12** | **curl_cffi** | **Stateless Auth** | **Data Orchestration**
 
-**GitHub link:** [https://github.com/MekhzZ/HealthSparqProviderDataAcquisition.git](https://github.com/MekhzZ/HealthSparqProviderDataAcquisition.git)

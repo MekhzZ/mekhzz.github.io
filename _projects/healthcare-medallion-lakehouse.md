@@ -4,6 +4,7 @@ excerpt: "Longitudinal High-Risk Patient & Cost Analytics using Databricks, PySp
 tags: [Data, AI/ML]
 rank: 1
 ---
+**[GitHub](https://github.com/MekhzZ/PayerScaleMedallionLakehouse)**
 
 ### Project Overview
 <p class="text-justify">Developed a Medallion Architecture (Bronze, Silver, Gold) on Databricks to identify high-risk, high-cost members in US Healthcare. The project transforms fragmented CMS synthetic claims data into a unified "Patient 360" view for analytical insights.</p>
@@ -23,6 +24,5 @@ rank: 1
 ### Tech Stack
 **Databricks** | **PySpark** | **SparkSQL** | **Medallion Architecture**
 
-**GitHub link:** [https://github.com/MekhzZ/PayerScaleMedallionLakehouse](https://github.com/MekhzZ/PayerScaleMedallionLakehouse)
 
 
