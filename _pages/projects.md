@@ -4,4 +4,5 @@ layout: collection
 permalink: /projects/
 collection: projects
 author_profile: true
+sort_by: rank
 ---
