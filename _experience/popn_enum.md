@@ -12,3 +12,5 @@ Census Bureau of Statistics, Nepal. | Oct 2021 - Nov 2021
 - **Field Operations:** Conducted door-to-door interviews, managing daily fieldwork to ensure complete coverage of the assigned enumeration area within tight deadlines.
 
 - **Stakeholder Engagement:** Developed strong interpersonal skills by explaining census objectives to diverse respondents to secure cooperation and accurate responses.
+
+- **Data Security:** Maintained the integrity of the data and handled them securely until submissions.

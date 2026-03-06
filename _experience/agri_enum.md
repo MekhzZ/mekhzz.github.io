@@ -14,3 +14,5 @@ Census Bureau of Statistics, Nepal. | Apr 2022 - Jun 2022
 - **Communication & Rapport:** Conducted one-on-one interviews with farmers, explaining census objectives to facilitate accurate and complete responses.
 
 - **Problem-Solving:** Resolved operational challenges, including navigating to remote locations and clarifying technical agricultural terms for respondents.
+
+- **Data Security:** Maintained the integrity of the data and handled them securely until submissions.
