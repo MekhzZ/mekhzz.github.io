@@ -1,7 +1,7 @@
 ---
 title: "Population Census Enumerator"
 excerpt: "Census Bureau of Statistics, Nepal | Oct 2021 - Nov 2021"
-rank: 3
+sort_date: 20211001
 ---
 Census Bureau of Statistics, Nepal. | Oct 2021 - Nov 2021
 

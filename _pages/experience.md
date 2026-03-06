@@ -4,5 +4,6 @@ layout: collection
 permalink: /experience/
 collection: experience
 author_profile: true
-sort_by: rank
+sort_by: sort_date
+sort_order: reverse
 ---

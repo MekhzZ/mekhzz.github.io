@@ -1,7 +1,7 @@
 ---
 title: "Agriculture Census Enumerator"
 excerpt: "Census Bureau of Statistics, Nepal | Apr 2022 - Jun 2022"
-rank: 2
+sort_date: 20220401
 ---
 Census Bureau of Statistics, Nepal. | Apr 2022 - Jun 2022
 

@@ -1,7 +1,7 @@
 ---
 title: "Data Filtration and Automation Associate"
 excerpt: "Veel Inc. | Dec 2024 - Present"
-rank: 1
+sort_date: 20241230
 ---
 Veel Inc. | Dec 2024 - Present
 
