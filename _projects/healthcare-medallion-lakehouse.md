@@ -1,8 +1,8 @@
 ---
 title: "Payer-Scale Medallion Lakehouse"
 excerpt: "Longitudinal High-Risk Patient & Cost Analytics using Databricks, PySpark, and HIPAA-compliant de-identification."
-tags: [Data, AI/ML]
-rank: 1
+tags: [Data]
+rank: 2
 ---
 **[GitHub](https://github.com/MekhzZ/PayerScaleMedallionLakehouse)**
 

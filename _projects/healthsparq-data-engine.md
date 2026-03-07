@@ -2,7 +2,7 @@
 title: "HealthSparq Provider Data Engine"
 excerpt: "A high-security data synchronization engine designed to bypass WAF protections and retrieve 3,865+ restricted medical provider records."
 tags: [Data]
-rank: 2
+rank: 3
 ---
 **[GitHub](https://github.com/MekhzZ/HealthSparqProviderDataEngine.git)**
 

@@ -2,7 +2,7 @@
 title: "Wikipedia Tabular Data Scraper"
 excerpt: "A Python-based automation tool to extract and convert web-based tabular information into structured CSV formats."
 tags: [Data]
-rank: 3
+rank: 4
 ---
 **[GitHub](https://github.com/MekhzZ/WikipediaTabularDataScraperModule1.git)** | **[Live](https://wikipediatabulardatam1.streamlit.app/)** | **[Docs](https://docs.google.com/document/d/1kuoeFyeuknALGBJYXNImkSEoVQ1dh-btPtm8R2J27zM/edit?usp=sharing)**
 
