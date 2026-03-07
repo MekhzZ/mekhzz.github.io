@@ -1,27 +1,16 @@
-# Minimal Mistakes remote theme starter
+# My Portfolio: Infrastructure & Design
+#### A High-Performance Static Portfolio Built with Jekyll, Liquid, and Medallion-Style Content Organization
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+## Project Overview
+This project involved architecting a personal portfolio. Moving beyond simple templates, I customized the Minimal Mistakes Jekyll theme to serve as a centralized hub for my projects, automated resumes, experiences and more.
 
-Contains basic configuration to get you a site with:
+- **Content as Data:** Organized projects and experiences using YAML/Markdown collections, treating site content as structured data.
+- **Automation:** Streamlined the deployment process using GitHub Pages and Jekyll build pipelines.
+- **SEO & Analytics:** Implemented tracking structures (such as UTM parameters) to analyze recruiter traffic and engagement.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Technical Stack
+- Framework: Jekyll (Ruby-based Static Site Generator).
+- Hosting: GitHub Pages with custom domain mapping at ```mekhzz.github.io```
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Impact
+- Reduced the time to update my professional profile across platforms by 80% through a "Single Source of Truth" repository.
