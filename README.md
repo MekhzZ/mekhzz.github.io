@@ -10,7 +10,10 @@ This project involved architecting a personal portfolio. Moving beyond simple te
 
 ## Technical Stack
 - Framework: Jekyll (Ruby-based Static Site Generator).
-- Hosting: GitHub Pages with custom domain mapping at ```mekhzz.github.io```
+- Hosting: GitHub Pages with custom domain mapping at https://mekhzz.github.io/
 
 ## Impact
 - Reduced the time to update my professional profile across platforms by 80% through a "Single Source of Truth" repository.
+
+## Shout Out
+- https://github.com/mmistakes/minimal-mistakes
