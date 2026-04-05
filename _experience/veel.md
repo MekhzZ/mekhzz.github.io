@@ -3,7 +3,7 @@ title: "Data Filtration and Automation Associate"
 excerpt: "Veel Inc. | Dec 2024 - Present"
 sort_date: 20241230
 ---
-Veel Inc. | Dec 2024 - Present
+[Veel Inc.](https://veelapp.com/) | Dec 2024 - Present
 
 <p class="text-justify">Specialized in converting fragmented manual workflows into high-performance, automated data systems. Bridged the gap between data engineering and campaign execution by aligning brand goals with creator relevance, engagement patterns, and audience context.</p>
 
