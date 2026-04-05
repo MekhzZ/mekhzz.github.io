@@ -11,7 +11,7 @@ sort_date: 20241230
 
 - **Data Integrity:** Before delivery, I proposed a system that validates and cleans large datasets against predefined company standards to ensure high reliability for downstream analysis and campaign planning.
 
-- **Cross-functional Collaboration:** Worked on multiple domain of data needs. For eg: I assisted AI/ML team by providing the production-level light-weight custom scraper, that scrapes the dynamic semi-structured data and transform them into ready-to-feed structured data. This enhances Veel's features by 50x faster and maintaing 40% more accuracy.
+- **Cross-functional Collaboration:** Worked on multiple domain of data needs. For eg: I assisted AI/ML team by providing the production-level light-weight custom scraper, that scrapes the dynamic semi-structured data and transform them into ready-to-feed structured data. This enhances Veel's features by 1.5x faster and maintaing 40% more accuracy.
 
 - **Executive support:** Cleaned and Validated data resides in gold layer of our system but lack of sales team SQL knowledge, they weren't able to use that efficiently. To tackle this, I proposed a RAG system based on vanna framework which allows sales person to chat with data. This system empowered sales team with data transparency to seal the deal. The problem's solution was totally research and proposed by me.
 

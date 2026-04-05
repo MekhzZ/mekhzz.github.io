@@ -3,7 +3,7 @@ title: "Population Census Enumerator"
 excerpt: "Census Bureau of Statistics, Nepal | Oct 2021 - Nov 2021"
 sort_date: 20211001
 ---
-Census Bureau of Statistics, Nepal. | Oct 2021 - Nov 2021
+[Census Bureau of Statistics, Nepal.](https://nsonepal.gov.np/) | Oct 2021 - Nov 2021
 
 <p class="text-justify">Collected critical demographic and socioeconomic data for the National Population and Housing Census 2021 in the Kosi Zone.</p>
 
