@@ -1,5 +1,5 @@
 ---
-title: "Data Filtration and Automation Associate"
+title: "Data Filtering Associate"
 excerpt: "Veel Inc. | Dec 2024 - Apr 2026"
 sort_date: 20241230
 ---
